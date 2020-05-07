@@ -1,2 +1,2 @@
 # python_repo
-Repository for storing projects for Python lessons
+Repository for storing projects related to Python lessons
